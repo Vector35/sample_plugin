@@ -2,7 +2,7 @@
 	"pluginmetadataversion" : 2,
 	"name": "Sample Plugin",
 	"type": ["core", "ui", "architecture", "binaryview", "helper"],
-	"api": ["python2", "python3"],
+	"api": ["python3"],
 	"description": "This is a short description meant to fit on one line.",
 	"longdescription": "This is a longer description meant for a sample plugin that demonstrates the metadata format for Binary Ninja plugins. Note that the [community-plugins repo]() contains a useful [utility](https://github.com/Vector35/community-plugins/blob/master/generate_plugininfo.py) to validate the plugin.json.",
 	"license": {
